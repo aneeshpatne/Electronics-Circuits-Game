@@ -39,7 +39,7 @@ setInterval(() => {
   
 
   if (rockLeft < 50 && rockLeft > 0 && dinoTop > 150) {
-    alert("It is a D-channel Mosfet --> Score: " + score.innerText +
+    alert("It is a D-TYPE Mosfet --> Score: " + score.innerText +
       "\n\nPlay again?");
       location.reload();
     
